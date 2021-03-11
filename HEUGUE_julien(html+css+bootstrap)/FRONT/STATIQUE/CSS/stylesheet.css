@@ -1,0 +1,22 @@
+div.nav{
+    background-color: #DCDCDC;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    padding: 5px;
+    text-indent: 10px;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+#barre{
+    margin-left: auto;
+    
+}
+#btn{
+    margin-left: 5px;
+}
